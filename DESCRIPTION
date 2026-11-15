@@ -1,0 +1,19 @@
+Package: ilovethisclass
+Type: Package
+Title: Documented Datasets for BZAN 1135
+Version: 0.1.0
+Authors@R: person("Robert S.", "Smith",
+    email = "68797484+ProfessorSmooth@users.noreply.github.com",
+    role = c("aut", "cre"))
+Description: Provides a simulated used-car sales dataset and variable
+    documentation for teaching introductory statistical analysis in BZAN 1135.
+    Each observation represents one fictional vehicle sale. The data support
+    exploratory analysis, categorical coding, and linear regression exercises.
+License: file LICENSE
+URL: https://github.com/ProfessorSmooth/ilovethisclass
+BugReports: https://github.com/ProfessorSmooth/ilovethisclass/issues
+Encoding: UTF-8
+Depends: R (>= 3.5.0)
+LazyData: true
+LazyDataCompression: xz
+NeedsCompilation: no

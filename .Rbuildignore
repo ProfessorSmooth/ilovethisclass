@@ -1,0 +1,8 @@
+^\.git$
+^\.gitignore$
+^\.Rhistory$
+^\.RData$
+^\.Rproj\.user$
+^.*\.Rproj$
+^.*\.tar\.gz$
+^.*\.zip$
